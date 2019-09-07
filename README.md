@@ -1,5 +1,5 @@
 # Football Live
-* shows the score of all live football matches
+* Shows the score of all live football matches
 * Third party API used from rapidApi
 * Attractive UI/UX
 * Axios used for feching API data
