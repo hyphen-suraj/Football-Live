@@ -1,0 +1,10 @@
+.score-board td,th{
+     margin: 2px 12px 2px 12px;
+    padding: 2px 12px 2px 12px;
+    width: 30%;
+    text-align: center;
+}
+.score-board{
+    border-collapse: separate;
+    border-spacing: 2px;
+}
