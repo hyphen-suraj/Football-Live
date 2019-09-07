@@ -8,6 +8,7 @@ Used:
 - HTML
 - CSS
 - JS
+- BOOTSTRAP
 
 # SCREENSHOT
 
