@@ -194,7 +194,7 @@ const view=score=>{
     let headers = {
      
          'x-rapidapi-host': 'api-football-v1.p.rapidapi.com',
-	'x-rapidapi-key': 'd190e979aemshbdb05298197a572p1f38a0jsn8b32399a1d55'
+	'x-rapidapi-key': 'd1b32399a1d55'
     };
        
        
